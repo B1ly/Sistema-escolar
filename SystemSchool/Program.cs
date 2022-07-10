@@ -12,6 +12,7 @@ namespace SystemSchool
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
+        //Nueva linea comentada
         static void Main()
         {
            // Application.EnableVisualStyles();
